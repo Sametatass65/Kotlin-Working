@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/samet/AndroidStudioProjects/RecyclerViewCardViewApp/app/src/main/res/drawable/buttonbackground.xml" value="0.192" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/RecyclerViewCardViewApp/app/src/main/res/drawable/cardviewbackground.xml" value="0.2" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/RecyclerViewCardViewApp/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.23" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/RecyclerViewCardViewApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.192" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/RecyclerViewCardViewApp/app/src/main/res/drawable/icon.xml" value="0.23" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/RecyclerViewCardViewApp/app/src/main/res/drawable/plaintaxtbackground.xml" value="0.23" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/RecyclerViewCardViewApp/app/src/main/res/layout/activity_kullanici_listesi.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/RecyclerViewCardViewApp/app/src/main/res/layout/activity_main.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/RecyclerViewCardViewApp/app/src/main/res/layout/activity_user_list.xml" value="0.1" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/RecyclerViewCardViewApp/app/src/main/res/layout/user_info_activity.xml" value="0.176" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/RecyclerViewCardViewApp/app/src/main/res/layout/user_item_list.xml" value="0.4" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/RecyclerViewCardViewApp/app/src/main/res/layout/user_item_list_recycler_row.xml" value="0.264" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/RecyclerViewCardViewApp/app/src/main/res/layout/userinfo.xml" value="0.2536144578313253" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/RecyclerViewCardViewApp/app/src/main/res/menu/mainmenu.xml" value="0.1" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/RecyclerViewCardViewApp/app/src/main/res/menu/usermenu.xml" value="0.21822916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

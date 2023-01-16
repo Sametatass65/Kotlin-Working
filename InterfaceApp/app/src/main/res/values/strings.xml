@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">InterfaceApp</string>
+    <string name="text1">Doğa Resmi 1</string>
+    <string name="text2">Doğa Resmi 2</string>
+    <string name="text3">Doğa Resmi 3</string>
+</resources>

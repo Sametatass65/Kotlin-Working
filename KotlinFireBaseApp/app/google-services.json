@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815900846566",
+    "project_id": "personelkaydet-eaa0b",
+    "storage_bucket": "personelkaydet-eaa0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815900846566:android:20ce86fbe9b0ab56d70e27",
+        "android_client_info": {
+          "package_name": "com.smt.kotlinfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815900846566-siro5i2oj1j2naq83n1s5qcr70f1usfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3nfG2UKtQLZUEOz3dRHoaQibYlCDwbHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815900846566-siro5i2oj1j2naq83n1s5qcr70f1usfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

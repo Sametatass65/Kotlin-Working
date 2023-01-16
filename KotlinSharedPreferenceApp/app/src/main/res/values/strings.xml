@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KotlinSharedPreferenceApp</string>
+    <string name="adVeSoyad">Ad Ve Soyad</string>
+    <string name="ekranCıktısı">Ekran Çıktısı</string>
+    <string name="yas">Yas</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="yazdır">Yazdır</string>
+    <string name="sil">Sil</string>
+
+
+</resources>
